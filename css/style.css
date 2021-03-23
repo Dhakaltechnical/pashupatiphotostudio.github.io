@@ -7,11 +7,7 @@ text-decoration: none;
 }
 header{
     width: 100%;height: 100vh;
-<<<<<<< HEAD:css/style.css
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.2)), url('../images/Pashupatinatho.jpg');
-=======
     background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.2)), url('../images/Pashupatinath.jpg');
->>>>>>> bc9004683e4d44432c94ecd5e667c477d03da607:style.css
     background-size: 100% 100%;
     
 }
