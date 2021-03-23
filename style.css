@@ -7,7 +7,7 @@ text-decoration: none;
 }
 header{
     width: 100%;height: 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.2)), url('../pashupatinath/images/Pashupatinath.jpg');
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.2)), url('../pashupatinathphotostudio/images/Pashupatinath.jpg');
     background-size: 100% 100%;
     
 }
